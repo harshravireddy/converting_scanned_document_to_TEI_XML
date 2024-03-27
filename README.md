@@ -20,3 +20,4 @@ The contents of the files include the following,
 2. Each document folder has the processed pages after going through the processing steps by processors.
 3. The final output folder has , combined hocr file , tei xml python code and tei xml output file.
 4. python code for splitting tiff document into indiviual document and combining hocr code is also included in the main branch.
+5. It also has our Report Document.
